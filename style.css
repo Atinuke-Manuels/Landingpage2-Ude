@@ -121,16 +121,16 @@ p a {
 
 ul {
     list-style: none;
-    margin-right: 75px;
+    margin-right: 0px;
     margin-left: 0;
     background-color: #f6f9fa;
 }
 
 .list1 {
     display: inline-flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    gap: 15px;
+    gap: 65px;
     background-color: #f6f9fa;
     padding-bottom: 30px;
 }
