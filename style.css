@@ -121,8 +121,6 @@ p a {
 
 ul {
     list-style: none;
-    margin-right: 0px;
-    margin-left: 0;
     background-color: #f6f9fa;
 }
 
@@ -133,6 +131,7 @@ ul {
     gap: 65px;
     background-color: #f6f9fa;
     padding-bottom: 30px;
+    margin-left: -2em;
 }
 
 .btnexplore {
