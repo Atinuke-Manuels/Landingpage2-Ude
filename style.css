@@ -250,9 +250,20 @@ h3 {
 
 .sec10 .btnenglish {
     margin-top: 15px;
-    background: none;
-    border: none;
-    color: inherit;
+    background-color: black;
+    background-image: url(flex2/footerglobe.PNG);
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    color: white;
+    width: 90px;
+    height: 25px;
+    padding: 7px 0px 7px 30px;
+    background-position: 10px 10px;
+   
+}
+.button2{
+    background-color: black;
+    color: white;
 }
 
 .sec11 {
