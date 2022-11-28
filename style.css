@@ -19,6 +19,22 @@
     background-repeat: no-repeat;
     padding: 12px 300px 12px 40px;
 }
+.firstpic{
+    position: relative;
+}
+.topimg{
+    position: absolute;
+    width: 320px;
+    height: 85px;
+    border: 1px solid black;
+    top: 83px;
+    background-color: #f6f9fa;
+    padding: 15px 15px 15px 25px;
+    left: 48px;
+}
+.topimg h2{
+    padding-bottom: 8px;
+}
 
 .logo {
     width: 100px;
